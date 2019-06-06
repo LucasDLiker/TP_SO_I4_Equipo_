@@ -1,4 +1,4 @@
 Nombre: Francisco
 Apellido: Castrelo
 IP: 192.168.56.1
-Hora 23:45
+Hora 23:45 pm
