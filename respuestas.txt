@@ -1,0 +1,7 @@
+¿ se pueden mantener los dos datos?¿Como?
+Si, con git merge.
+Siendo distintas ramas, al hacer el merge no se modifican las ramas per 
+se, sino que los datos van al datos.txt del master.
+
+¿se pueden mantener los dos datos sólo de un ALFA o BETA ?¿Como?
+Si, haciendo merge a una rama en especifico sin modificar la otra.
