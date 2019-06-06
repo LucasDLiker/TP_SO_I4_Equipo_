@@ -1,1 +1,4 @@
-Hello
+Nombre: Nestor
+Apellido: Alegria
+IP: 192.168.15.0
+Hora: 23:02
