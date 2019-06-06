@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 Nombre: Francisco
 Apellido: Castrelo
 IP: 192.168.56.1
 Hora 23:45 pm
+=======
+Nombre: Nestor
+Apellido: Alegria
+IP: 192.168.15.0
+Hora: 23:02
+>>>>>>> alegria
